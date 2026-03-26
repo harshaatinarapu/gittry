@@ -1,7 +1,13 @@
 {
-  "name": "my-app",
+  "name": "my-site",
+  "version": "1.0.0",
+  "description": "Simple web project",
+  "main": "index.js",
   "scripts": {
-    "build": "vite build",
-    "test": "echo \"No tests\""
-  }
+    "start": "node index.js",
+    "build": "echo \"No build step defined\"",
+    "test": "echo \"No tests yet\""
+  },
+  "author": "Srinivas",
+  "license": "ISC"
 }
