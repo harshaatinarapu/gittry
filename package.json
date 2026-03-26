@@ -1,0 +1,7 @@
+{
+  "name": "my-app",
+  "scripts": {
+    "build": "vite build",
+    "test": "echo \"No tests\""
+  }
+}
