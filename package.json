@@ -1,12 +1,12 @@
 {
-  "name": "my-site",
+  "name": "my-website",
   "version": "1.0.0",
-  "description": "Simple web project",
-  "main": "index.js",
+  "description": "My simple website",
+  "main": "server.js",
   "scripts": {
-    "start": "node index.js",
-    "build": "echo \"No build step defined\"",
-    "test": "echo \"No tests yet\""
+    "start": "node server.js",
+    "test": "echo 'No tests yet' && exit 0",
+    "build": "echo 'Build complete'"
   },
   "author": "Srinivas",
   "license": "ISC",
