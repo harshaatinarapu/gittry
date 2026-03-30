@@ -9,5 +9,8 @@
     "test": "echo \"No tests yet\""
   },
   "author": "Srinivas",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
